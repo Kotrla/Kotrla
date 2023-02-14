@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kristian Kotrla, people call me Koti
-- 👀 I’m interested in software engineering.
+- 👀 I’m interested in software engineering, with a strong focus on Front-End web technologies.
 - 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/kristian-kotrla/
 
 <!---
